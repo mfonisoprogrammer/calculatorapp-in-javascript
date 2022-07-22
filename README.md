@@ -1,2 +1,2 @@
 # calculatorapp-in-javascript
-calculatorapp built in javascript one hour coding no stopping  
+I bulit this calculator app   in html ,css and javascript which i used one hour to  code the calculator app with no stopping  of coding.
